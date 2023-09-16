@@ -18,7 +18,7 @@ This project is built using a stack of cutting-edge technologies, including:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Sanity](https://www.sanity.io/)
-- [Stripe](https://www.stripe.com/)0
+- [Stripe](https://www.stripe.com/)
 
 ## Features
 
