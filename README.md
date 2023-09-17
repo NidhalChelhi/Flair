@@ -8,8 +8,7 @@
 
 Check out the live demo of the project [here](https://flair-store.vercel.app).
 
-![Logo](https://github.com/NidhalChelhi/Flair/blob/main/public/showcase/FlairShowcase.png)
-
+![Logo](https://github.com/NidhalChelhi/Flair/blob/main/public/showcase/flair_showcase.png)
 
 ## Technologies Used
 
@@ -47,16 +46,19 @@ This project is built using a stack of cutting-edge technologies, including:
 To get a local copy of the project up and running, follow these steps:
 
 1. Clone this repository to your local machine:
+
    ```bash
    git clone https://github.com/NidhalChelhi/Flair.git
    ```
 
 2. Navigate to the project directory:
+
    ```bash
    cd Flair
    ```
 
 3. Install project dependencies:
+
    ```bash
    npm install
    ```
@@ -65,6 +67,7 @@ To get a local copy of the project up and running, follow these steps:
    ```bash
    npm run dev
    ```
+
 ---
 
 Made with 🤍 by: [Nidhal Chelhi](https://nidhalchelhi.vercel.app)
