@@ -26,5 +26,5 @@ export function SiteBlob() {
         </div>
       </div>
     </>
-  )
+  );
 }

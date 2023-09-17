@@ -48,7 +48,7 @@ export function ProductGallery({ product }: Props) {
       </div>
 
       {/* Main Image */}
-      <div className="aspect-h-1 aspect-w-1 w-full">
+      <div className="aspect-h-1 aspect-w-1  w-full">
         <Image
           priority
           placeholder="blur"
