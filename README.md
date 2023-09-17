@@ -1,4 +1,4 @@
-![Logo](https://github.com/NidhalChelhi/Flair/blob/main/public/logo_light_ex.svg)
+![Logo](https://github.com/NidhalChelhi/Flair/blob/main/public/logo/logo_light_ex.svg)
 
 # Flair
 
@@ -8,7 +8,7 @@
 
 Check out the live demo of the project [here](https://flair-store.vercel.app).
 
-![Logo](https://github.com/NidhalChelhi/Flair/blob/main/public/FlairShowcase.png)
+![Logo](https://github.com/NidhalChelhi/Flair/blob/main/public/showcase/FlairShowcase.png)
 
 
 ## Technologies Used
