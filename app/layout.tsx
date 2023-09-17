@@ -11,11 +11,9 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: siteConfig.name,
   description: siteConfig.description,
-  icons: [{
+  icons: {
     icon: "/favicon.ico",
-
   },
-]
 };
 
 interface RootLayoutProps {
