@@ -10,7 +10,7 @@ export function MainNav() {
       <Link href="/" className="flex items-center space-x-2">
         <div className="w-7 h-7">
           <img
-            src={`${theme === "light" ? "logo_dark.svg" : "logo_light.svg"}`}
+            src={`${theme === "light" ? "logo/logo_dark.svg" : "logo/logo_light.svg"}`}
             alt="Flair Logo"
             className="object-contain"
           />
